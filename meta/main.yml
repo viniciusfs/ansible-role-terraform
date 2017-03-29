@@ -1,0 +1,10 @@
+---
+galaxy_info:
+  author: Vinícius Figueiredo
+  description: Installs Terraform in Linux systems.
+  license: MIT
+
+  galaxy_tags:
+    - terraform
+
+dependencies: []

@@ -1,0 +1,6 @@
+---
+- name: Install Terrraform
+  unarchive:
+    src={{ terraform_package_url }}
+    dest={{ terraform_destination }}
+    remote_src=true
