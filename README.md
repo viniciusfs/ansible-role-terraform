@@ -1,6 +1,6 @@
 # Ansible role: Terraform
 
-Installs Terraform in Ubuntu Desktop. :joy_cat:
+Installs Terraform in Linux systems. :joy_cat:
 
 
 ## Role Variables
